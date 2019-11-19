@@ -1,0 +1,10 @@
+[[constraint]]
+  name = "github.com/eclipse/paho.mqtt.golang"
+  version = "1.1.0"
+  
+[[constraint]]
+  name="github.com/stianeikeland/go-rpio"
+  version = "v4.4.0"
+
+[[constraint]]
+  name="github.com/metakeule/fmtdate"
