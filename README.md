@@ -1,4 +1,6 @@
 # Home Assistant remote integration with Raspberry Pi GPIO using MQTT
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdaco-tech%2Fraspberrypi-mqtt-head.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdaco-tech%2Fraspberrypi-mqtt-head?ref=badge_shield)
+
 
 This is a simple Go program is to easly integrate a remote Home Assistant (Installed on a different computer than the Raspberry Pi) with Raspberry Pi's GPIO using MQTT to communicate.
 
@@ -67,3 +69,6 @@ config.json file content example:
     }
 }
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdaco-tech%2Fraspberrypi-mqtt-head.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdaco-tech%2Fraspberrypi-mqtt-head?ref=badge_large)
